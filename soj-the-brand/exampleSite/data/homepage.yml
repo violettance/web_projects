@@ -1,0 +1,98 @@
+---
+banner:
+  title: Vegan ve minimal tasarımlı <br> SOJ mumlara merhaba de!
+  image: ''
+  content: Midday Sun, Arctic Night ve Almost Dusk'ın evinin havasını değiştirmesine
+    hazır mısın?
+  button:
+    enable: true
+    label: Ürünleri İncele
+    link: pricing
+feature:
+  enable: false
+  title: Something You Need To Know
+  feature_item:
+  - name: Clean Code
+    icon: ti-pulse
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Object Oriented
+    icon: ti-package
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: 24h Service
+    icon: ti-alarm-clock
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Value For Money
+    icon: ti-credit-card
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Faster Response
+    icon: ti-headphone-alt
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Cloud Support
+    icon: ti-cloud-up
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+service:
+  enable: false
+  service_item:
+  - title: It is the most advanced digital marketing and it company.
+    images:
+    - images/service-1.png
+    - images/service-2.png
+    - images/service-3.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: It is a privately owned Information and cyber security company
+    images:
+    - images/service-1.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: It’s a team of experienced and skilled people with distributions
+    images:
+    - images/service-2.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: A company standing different from others
+    images:
+    - images/service-3.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+screenshot:
+  enable: true
+  title: ''
+  image: "/images/4845876.jpg"
+call_to_action:
+  enable: true
+  title: Sürdürülebilir tüketim için vegan içerikli soya mumları
+  image: "/images/4850758.jpg"
+  content: ''
+  button:
+    enable: true
+    label: Sipariş Ver
+    link: pricing

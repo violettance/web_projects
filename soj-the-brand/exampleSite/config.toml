@@ -1,0 +1,61 @@
+baseURL = "http://sojcandle.com/"
+disqusShortname = ""
+googleAnalytics = ""
+languageCode = "tr"
+languageName = "Türkçe"
+paginate = "3"
+summaryLength = "15"
+theme = "soj-the-brand"
+title = "SOJ Candle Co."
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+author = "SOJ"
+contact_form_action = "mailto:sojcandle@gmail.com"
+copyright = "Develop by <b> SOJ </b>"
+description = "logo"
+footer_content = ""
+footer_menu_left = "SOJ Candle Company"
+footer_menu_middle = ""
+footer_menu_right = ""
+logo = "/images/output-onlinepngtools.png"
+logo_width = "200px"
+[params.navigation_button]
+enable = true
+label = "Fırsatlardan yararlanmak için e-posta bültenine kayıt ol"
+link = "https://form.jotform.com/210063705268047"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[params.preloader]
+enable = false
+preloader = ""
+[[params.social]]
+icon = "ti-infinite"
+link = "https://wa.me/05387608085/"
+title = "whatsapp"
+[[params.social]]
+icon = "ti-email"
+link = "mailto:sojcandle@gmail.com"
+title = "e-mail"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/soj.candle.1/"
+title = "facebook"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/sojcandle/"
+title = "instagram"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/soj-candle-co"
+title = "linkedin"
